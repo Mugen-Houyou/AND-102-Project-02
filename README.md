@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Please visit [HERE](https://i.imgur.com/DcVsql5.mp4) if playback won't work.
 <img src='https://i.imgur.com/DcVsql5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
